@@ -21,7 +21,7 @@ function mms_courses_node_info() {
     'course_name' => array(
       'name' => t('Course'),
       'base' => 'node_content',
-      'description' => t('On page for each course that we offer.'),
+      'description' => t('One page for each course that we offer.'),
       'has_title' => '1',
       'title_label' => t('Name'),
       'help' => '',
